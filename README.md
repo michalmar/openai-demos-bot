@@ -1,5 +1,5 @@
 ﻿# Azure OpenAI Chatbot demo using Azure Bot Framework & Azure Bot Service
-
+ 
 based on: https://github.com/Microsoft/botbuilder-samples.git EchoBot
 
 technologies: Bot Framework 4 (Python), Python, Azure Web App, Azure Bot Service and Azure OpenAI Service.
