@@ -1,0 +1,4 @@
+botbuilder-integration-aiohttp>=4.14.0
+openai
+aiohttp
+requests
